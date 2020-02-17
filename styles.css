@@ -24,11 +24,13 @@ h3:hover{
 .h3{
   color: black;
 }
-
 /**********************Id Selectors**********************************/
 #heading{
   color:red;
 }
 #profilepic{
   border-radius:300px;
+}
+#unique{
+  display:none;
 }
